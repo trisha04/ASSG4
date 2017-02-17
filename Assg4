@@ -1,0 +1,33 @@
+Hadoop in Layman terms:
+It can be segregated into four divisions or we can say modules
+
+Distributed File System:-It allows data to be stored in a lucid format and moreover it is accessible accross a 
+huge number of devices which are stored
+Map reduce which provides the basic tools for pointing out the data
+and will be further elaborated in the next point
+
+Map Reduce- As the name suggests,putting the data into a suitable and desirable format ie MAP
+and performing the mathematical calculations ie REDUCE
+
+Hadoop Common-Provides tools needed for users computer that is the operating system ie Windows,Unix,etc
+
+Yarn-manage resources of the system that are storing data and also running the analysis
+
+Componenets of Hadoop Framework
+1 Map Reduce-Sofware model for processing thehuge data sets in parallel
+
+2.HDFS-All kinds of data are stored here without prior organisation
+
+3.YARN-framework for scheduling and handling resource requests from applications
+
+Reasons to learn Big data technologies:
+Nowadays data sets are large enough.There are five reasons to learn the big data technologies;
+1.No signs of slowing down
+
+2.Everyone uses big data
+
+3.Information managers are in demand
+
+4.Lot of sofware options
+
+5.We can learn another technologies
